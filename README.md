@@ -1,2 +1,2 @@
 # wedding
-# Wedding_website_Jignasha_Prashant
+# wedding_website_jignasha_prashant
